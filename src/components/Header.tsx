@@ -18,7 +18,7 @@ export function Header() {
           className="mb-4 inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/10 px-4 py-1.5 text-sm text-primary"
         >
           <Sparkles className="h-4 w-4" />
-          <span>AI-Powered Analysis</span>
+          <span>AI-Powered Analysis (Beta Version)</span>
         </motion.div>
 
         <motion.div
