@@ -73,6 +73,7 @@ The tool does **not** provide legal, political, or journalistic advice and shoul
 
 **Muzamil Gashroo**  
 GitHub: https://github.com/Muzamil-Gashroo
+LinkedIn: kedin.com/in/muzamil-bashir-gashroo-8268b4228/
 
 ---
 
